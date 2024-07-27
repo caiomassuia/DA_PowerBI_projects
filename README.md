@@ -1,6 +1,6 @@
 # Projetos realizados no Power BI
 
-### Projeto: Dashboard de vendas globais em Power BI ([Link do Projeto](https://app.powerbi.com/view?r=eyJrIjoiNjliYTFiMDUtZDYyMy00N2JlLWJkMGUtZGY0MGQ0MjQxNTgwIiwidCI6ImFiNzcyZDA1LTUxY2EtNDY1NC1iYTBlLTNlOWVhZDZjZDg0NiJ9))
+### Projeto: Dashboard de vendas globais em Power BI ([Link do Projeto](https://app.powerbi.com/view?r=eyJrIjoiNjRhY2UzMzQtYzVjNC00NDg5LWEzY2EtOGQ1NjU2NDQ4ZTgzIiwidCI6ImFiNzcyZDA1LTUxY2EtNDY1NC1iYTBlLTNlOWVhZDZjZDg0NiJ9))
 Objetivo: Criação de um dashboard interativo para a análise e visualização dos dados de vendas globais.
 
 ---
